@@ -1,6 +1,8 @@
 # Onboarding
 
-Thoughts &amp; approaches to onboarding in the context of large code-based projects
+Thoughts &amp; approaches to onboarding in the context of large code-based projects.
+
+**What's here so far?** Thoughts and some generalized useful information for people new to contributing to open source projects.
 
 ## Why?
 Onboarding is hard.
