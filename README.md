@@ -4,7 +4,7 @@ Thoughts &amp; approaches to onboarding in the context of large code-based proje
 
 **What's here so far?** Thoughts and some generalized useful information for people new to contributing to open source projects.
 
-[Read this as a gitbook](https://frijol.gitbooks.io/open-source-onboarding/content/)
+[Read this as a Gitbook](https://frijol.gitbooks.io/open-source-onboarding/content/) | [See on Github](https://github.com/Frijol/onboarding)
 
 ## Why?
 Onboarding is hard.
