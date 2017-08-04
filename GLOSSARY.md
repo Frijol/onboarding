@@ -9,6 +9,9 @@ Command-line interface, a way of interacting with a tool via the terminal or com
 ## git
 A tool for version control
 
+## LGTM
+Looks good to me (often used as a concise review on a pull request)
+
 ## linting
 The process (often through an automatic 'linter') of ensuring that a codebase adheres to syntax and style guidelines
 
