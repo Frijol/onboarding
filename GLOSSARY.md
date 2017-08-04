@@ -15,6 +15,9 @@ Looks good to me (often used as a concise review on a pull request)
 ## linting
 The process (often through an automatic 'linter') of ensuring that a codebase adheres to syntax and style guidelines
 
+## onboarding
+The process of getting up to speed on a project, typically to the point of being able to make valuable contributions. In code projects, this can involve becoming familiar with file structure, tools, social processes and expectations, and available documentation.
+
 ## OSHW
 Open source hardware
 
