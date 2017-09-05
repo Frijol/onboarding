@@ -36,6 +36,7 @@ How can we do this effectively and efficiently?
 * [yourfirstPR](https://yourfirstpr.github.io/) and similar labels/movements help people find the more-accessible first issues to tackle within a given project
 * [Servo Starters](https://starters.servo.org/) has a nice getting-started page based around issue-finding
 * [Node Todo](http://nodetodo.org/) is a guide to help people make first contributions to Node core
+* [CodeTriage](https://www.codetriage.com/) suggests open source issues to fix daily to your inbox
 * Node and other projects have not just a "beginner friendly" label but also a "mentor available" label. "Beginner friendly" should typically mean that the issue is well-defined and gives enough supporting information that someone brand new to the project should know where to start looking. Node elevates "beginner friendly" issues that are still untackled after a few weeks to "mentor available"– assumption is that if you flag an issue "mentor available", you become the mentor
 
 ### Mentorship
