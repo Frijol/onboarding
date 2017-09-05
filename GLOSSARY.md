@@ -51,6 +51,9 @@ Technical testing and read-through with comments, typically of a proposed change
 ## RTFM
 read the f'ing manual
 
+## SGTM
+Sounds good to me
+
 ## version control
 A way of saving a project such that new changes don't overwrite old versions– a sort of parallel universe theory applied to files, where each change branches from the previous change
 
